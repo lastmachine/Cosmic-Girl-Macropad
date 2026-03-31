@@ -1,5 +1,5 @@
 # Cosmic-Girl-Macropad
-A personal cosmic-themed XIAO-RP2040-powered HackPad for games, video editing, or anything you'd like to customize. It features 9 MX-style switches, 1 EC11 rotary encoder, and a 128x32 OLED screen.
+A personal cosmic-themed XIAO-RP2040-powered macropad for games, video editing, or anything you'd like to customize. It features 9 MX-style switches, 1 EC11 rotary encoder, and a 128x32 OLED screen.
 
 Having 9 keys makes it perfect for media editing and streaming; those are the main usages I want to give it. Of course, this macropad would work for anything else that allows custom binds. KMK firmware written in Python, is open to modifications 
 
