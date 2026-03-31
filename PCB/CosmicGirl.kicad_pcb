@@ -123,9 +123,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../../GitHub/Cosmic-Girl-Macropad/Production/")
 		)
 	)
 	(footprint "footprints:SK6812MINI-E_fixed"
@@ -1335,7 +1335,7 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW3"
-			(at -1.12 24.176 0)
+			(at -2.59 -2.94 0)
 			(layer "F.SilkS")
 			(uuid "2bfaf652-e1c3-4e01-8e88-4bf4d83cbd21")
 			(effects
