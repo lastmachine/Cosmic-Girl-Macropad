@@ -8,20 +8,20 @@ It is called "Cosmic Girl" because I really like the song of the same name creat
 Made using KiCad, Fusion 360, and Visual Studio Code. For Hack Club Blueprint.
 
 ## Render & Snapshot - Fusion 360
-![Render](images/Render_3.png)
-![Parts](images/Pieces.png)
-![Snapshot](images/Snapshot.png)
-![Astro](images/Astro.png)
+![Render](Images/Render_3.png)
+![Parts](Images/Pieces.png)
+![Snapshot](Images/Snapshot.png)
+![Astro](Images/Astro.png)
 
 ---
 ## PCB & Schematic - KiCad 
-![PCB](images/PCB.png)
-![Schematic](images/Schematic.png)
+![PCB](Images/PCB.png)
+![Schematic](Images/Schematic.png)
 
 ---
 ## 3D
-![PCB](images/PCB_3D.png)
-![Schematic](images/Render_1.png)
+![PCB](Images/PCB_3D.png)
+![Schematic](Images/Render_1.png)
 
 ---
 ## Bill of Materials
