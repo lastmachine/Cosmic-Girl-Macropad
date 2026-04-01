@@ -43,9 +43,9 @@ keyboard.modules.append(layers)
 
 keyboard.keymap = [
     [
-        KC.F13, KC.F14, KC.F15,
-        KC.F16, KC.F17, KC.F18,
-        KC.F19, KC.F20, KC.MUTE,
+        KC.F13,  KC.F14,   KC.F15,
+        KC.F16,  KC.F17,   KC.F18,
+        KC.F19,  KC.F20,   KC.MUTE,
     ],
 ]
 

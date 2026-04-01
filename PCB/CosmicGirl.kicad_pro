@@ -204,6 +204,10 @@
         [
           "copper_edge_clearance|170971999|95544842|d68a89a2-0a55-498f-b5c8-8ae5e018fd30|f1369833-dd0a-4a29-ac9f-7d57cd0d521c",
           ""
+        ],
+        [
+          "silk_overlap|130138095|121269104|2bfaf652-e1c3-4e01-8e88-4bf4d83cbd21|ff2f24a8-95fa-4c75-a78b-999867e27234",
+          ""
         ]
       ],
       "meta": {
@@ -668,7 +672,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../GitHub/Cosmic-Girl-Macropad/Production/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "MadeInHeaven_Master.step",
@@ -809,7 +813,7 @@
   "sheets": [
     [
       "b549fe80-d2b1-4469-a6fa-02c0072a15ad",
-      "3x3 macropad"
+      "CosmicGirl"
     ]
   ],
   "text_variables": {},

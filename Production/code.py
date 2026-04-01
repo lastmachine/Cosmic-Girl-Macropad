@@ -30,7 +30,11 @@ oled = OLED(
     width=128,
     height=32,
     flip=False,
-    display_mode=OLED_DisplayMode.TXT
+    display_mode=OLED_DisplayMode.TXT,
+    entries=[
+        {"t": "Cosmic Girl", "x": 20, "y": 0},
+        {"t": "F13-F20 | Vol", "x": 0, "y": 16},
+    ]
 )
 keyboard.extensions.append(oled)
 
@@ -39,15 +43,11 @@ keyboard.modules.append(layers)
 
 keyboard.keymap = [
     [
-        KC.F13, KC.F14, KC.F15,
-        KC.F16, KC.F17, KC.F18,
-        KC.F19, KC.F20, KC.MUTE,
+        KC.F13,  KC.F14,   KC.F15,
+        KC.F16,  KC.F17,   KC.F18,
+        KC.F19,  KC.F20,   KC.MUTE,
     ],
 ]
-
-oled.text("Cosmic Girl Macropad", 20, 0, 1)
-oled.text("F13-F20 | Vol Knob", 0, 16, 1)
-oled.show()
 
 if __name__ == '__main__':
     keyboard.go()
